@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-11-08T12:22:25 IST" name="Maven.LoginTest" finished-at="2019-11-08T12:23:49 IST" duration-ms="83248">
+    <groups>
+      <group name="main">
+        <method signature="LoginTest.TC_1()[pri:1, instance:Maven.LoginTest@5fdba6f9]" name="TC_1" class="Maven.LoginTest"/>
+        <method signature="LoginTest.TC_2()[pri:2, instance:Maven.LoginTest@5fdba6f9]" name="TC_2" class="Maven.LoginTest"/>
+        <method signature="LoginTest.TC_3()[pri:3, instance:Maven.LoginTest@5fdba6f9]" name="TC_3" class="Maven.LoginTest"/>
+        <method signature="LoginTest.TC_4()[pri:4, instance:Maven.LoginTest@5fdba6f9]" name="TC_4" class="Maven.LoginTest"/>
+        <method signature="LoginTest.TC_5()[pri:5, instance:Maven.LoginTest@5fdba6f9]" name="TC_5" class="Maven.LoginTest"/>
+        <method signature="LoginTest.TC_6()[pri:6, instance:Maven.LoginTest@5fdba6f9]" name="TC_6" class="Maven.LoginTest"/>
+        <method signature="LoginTest.TC_7()[pri:7, instance:Maven.LoginTest@5fdba6f9]" name="TC_7" class="Maven.LoginTest"/>
+        <method signature="LoginTest.TC_8()[pri:8, instance:Maven.LoginTest@5fdba6f9]" name="TC_8" class="Maven.LoginTest"/>
+      </group> <!-- main -->
+    </groups>
+    <test started-at="2019-11-08T12:22:25 IST" name="Command line test" finished-at="2019-11-08T12:23:49 IST" duration-ms="83248">
+      <class name="Maven.LoginTest">
+        <test-method is-config="true" signature="b()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:22:25 IST" name="b" finished-at="2019-11-08T12:22:33 IST" duration-ms="7729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method signature="TC_1()[pri:1, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:22:33 IST" name="TC_1" finished-at="2019-11-08T12:22:39 IST" duration-ms="5570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_1 -->
+        <test-method is-config="true" signature="bclose()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:22:39 IST" name="bclose" finished-at="2019-11-08T12:22:40 IST" duration-ms="851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclose -->
+        <test-method is-config="true" signature="b()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:22:40 IST" name="b" finished-at="2019-11-08T12:22:47 IST" duration-ms="7509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method signature="TC_2()[pri:2, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:22:47 IST" name="TC_2" finished-at="2019-11-08T12:22:52 IST" duration-ms="4774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_2 -->
+        <test-method is-config="true" signature="bclose()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:22:52 IST" name="bclose" finished-at="2019-11-08T12:22:53 IST" duration-ms="826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclose -->
+        <test-method is-config="true" signature="b()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:22:53 IST" name="b" finished-at="2019-11-08T12:22:59 IST" duration-ms="6222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method signature="TC_3()[pri:3, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:22:59 IST" name="TC_3" finished-at="2019-11-08T12:23:00 IST" duration-ms="682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_3 -->
+        <test-method is-config="true" signature="bclose()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:00 IST" name="bclose" finished-at="2019-11-08T12:23:00 IST" duration-ms="792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclose -->
+        <test-method is-config="true" signature="b()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:00 IST" name="b" finished-at="2019-11-08T12:23:07 IST" duration-ms="6212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method signature="TC_4()[pri:4, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:07 IST" name="TC_4" finished-at="2019-11-08T12:23:07 IST" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_4 -->
+        <test-method is-config="true" signature="bclose()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:07 IST" name="bclose" finished-at="2019-11-08T12:23:08 IST" duration-ms="860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclose -->
+        <test-method is-config="true" signature="b()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:08 IST" name="b" finished-at="2019-11-08T12:23:14 IST" duration-ms="6268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method signature="TC_5()[pri:5, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:14 IST" name="TC_5" finished-at="2019-11-08T12:23:14 IST" duration-ms="387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_5 -->
+        <test-method is-config="true" signature="bclose()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:14 IST" name="bclose" finished-at="2019-11-08T12:23:15 IST" duration-ms="838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclose -->
+        <test-method is-config="true" signature="b()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:15 IST" name="b" finished-at="2019-11-08T12:23:22 IST" duration-ms="6242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method signature="TC_6()[pri:6, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:22 IST" name="TC_6" finished-at="2019-11-08T12:23:22 IST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_6 -->
+        <test-method is-config="true" signature="bclose()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:22 IST" name="bclose" finished-at="2019-11-08T12:23:23 IST" duration-ms="851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclose -->
+        <test-method is-config="true" signature="b()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:23 IST" name="b" finished-at="2019-11-08T12:23:29 IST" duration-ms="6200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method signature="TC_7()[pri:7, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:29 IST" name="TC_7" finished-at="2019-11-08T12:23:30 IST" duration-ms="532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_7 -->
+        <test-method is-config="true" signature="bclose()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:30 IST" name="bclose" finished-at="2019-11-08T12:23:30 IST" duration-ms="820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclose -->
+        <test-method is-config="true" signature="b()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:30 IST" name="b" finished-at="2019-11-08T12:23:38 IST" duration-ms="7239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method signature="TC_8()[pri:8, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:38 IST" name="TC_8" finished-at="2019-11-08T12:23:47 IST" duration-ms="9614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_8 -->
+        <test-method is-config="true" signature="bclose()[pri:0, instance:Maven.LoginTest@5fdba6f9]" started-at="2019-11-08T12:23:47 IST" name="bclose" finished-at="2019-11-08T12:23:49 IST" duration-ms="1326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclose -->
+      </class> <!-- Maven.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Maven.LoginTest -->
+</testng-results>
